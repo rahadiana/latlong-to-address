@@ -16,5 +16,3 @@ function LatLongAddres($lat,$long){
         // End Get String Between
         return $ResultAddress;
 };
-
-print_r (LatLongAddres('-6.104243','106.801670'));
